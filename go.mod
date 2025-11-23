@@ -1,4 +1,4 @@
-module github.com/256dpi/lungo
+module github.com/rmanibus/lungo
 
 go 1.20
 
